@@ -83,6 +83,22 @@ You need to install dependencies by running `python -m pip install -r requiremen
 
 ### Step 4: Connection to MySQL
 
+To check if your MySQL server is running properly, run the following command:
+```
+mysql --version
+```
+
+If it throws this error: `zsh: command not found: mysql`, then run the following commands on MacOS/Linux:
+```
+export PATH=${PATH}:/usr/local/mysql/bin/
+source ~/.zshrc   # If you use Oh-My-Zsh
+source ~/.bashrc  # If you use Default Bash
+```
+Then run the following command to start MySQL:
+```
+mysql -u root -p
+```
+
 ## NOTE: Post bugfix: 
 
 Make sure your MySQL server is running, then in app.py, change the SQL credentials to match your local MySQL credentials.
@@ -118,13 +134,14 @@ Once done with all this, you can run it using:
   - When running locally, it will be loaded to your local database without any import commands required, and will be re-built each time
   - When deployed on the server however, it will only be run once at the start of deployment. Any changes made to the DB from here on will be permanent, unless destroyed.
 
-## Debugging Some Basic Errors
+## Debugging Some Frquent Errors
 - After the build, wait a few seconds as the server will still be loading, especially for larger applications with a lot of setup
 - **Do not change the Dockerfiles without permission**
 - Sometimes, if a deployment doesn't work, you can try logging out and back in to see if it works
 - Alternatively, checking the console will tell you what error it is. If it's a 401, then logging in and out should fix it. 
 - If it isn't a 401, first try checking the logs or container status. Check if the containers are alive or not, which could cause issues. If the containers are down, try stopping and starting them. If that does not work, you can report it on ED.
-- If data isn't important, destroying and then cloning and re-building containers will usually fix the issue (assuming there's no logical error)
+- If data isn't important, destroying and then cloning and re-building containers will usually fix the issue (assuming there's no logical error) 
+
 
 ## General comments from the author
 ### Mayank/ms3293
