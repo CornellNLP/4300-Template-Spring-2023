@@ -5,6 +5,7 @@ import sqlalchemy as db
 import os
 
 db_name = os.environ["DB_NAME"]
+print("DB name",f'mysql+pymysql://admin:admin@{db_name}:3306/NEW_DB')
 engine = db.create_engine(f'mysql+pymysql://admin:admin@{db_name}:3306/NEW_DB')
 
 conn = engine.connect() 
