@@ -39,7 +39,7 @@ services:
     db:
         image: mariadb:10.5.8
         restart: always
-        container_name: ${TEAM_NAME}_flask_db
+        container_name: ${TEAM_NAME}_db
         environment:
                 - MYSQL_USER=${MYSQL_USER}
                 - MYSQL_PASSWORD=${MYSQL_PASSWORD}
