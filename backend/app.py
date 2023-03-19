@@ -2,7 +2,11 @@
 from flask import Flask
 from flask_cors import CORS
 import sqlalchemy as db
-engine = db.create_engine('mysql+pymysql://admin:admin@4300_TEAM_1_flask_db:3306/sample_db')
+import os
+
+db_name = os.environ["DB_NAME"]
+
+engine = db.create_engine(f'mysql+pymysql://admin:admin@{db_name}:3306/sample_db')
 
 conn = engine.connect() 
 app = Flask(__name__)
