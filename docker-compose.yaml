@@ -8,7 +8,7 @@ services:
                 - ${FRONTEND_EXTERNAL_PORT}
         restart: always
         build:
-                context: ./Frontend
+                context: ./frontend
                 dockerfile: Dockerfile
         networks:
                 flask_network:
@@ -23,7 +23,7 @@ services:
                 - ${FLASK_EXTERNAL_PORT}
         restart: always
         build:
-                context: ./Backend
+                context: ./backend
                 dockerfile: Dockerfile
         depends_on:
                 - db
@@ -40,10 +40,6 @@ services:
         image: mariadb:10.5.8
         restart: always
         container_name: ${TEAM_NAME}_flask_db
-        ports:
-                - ${MYSQL_EXTERNAL_PORT}:${MYSQL_INTERNAL_PORT}
-        expose:
-                - ${MYSQL_EXTERNAL_PORT}
         environment:
                 - MYSQL_USER=${MYSQL_USER}
                 - MYSQL_PASSWORD=${MYSQL_PASSWORD}
