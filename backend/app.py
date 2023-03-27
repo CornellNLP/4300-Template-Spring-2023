@@ -25,7 +25,7 @@ MYSQL_DATABASE = "kardashiandb"
 mysql_engine = MySQLDatabaseHandler(MYSQL_USER,MYSQL_USER_PASSWORD,MYSQL_PORT,MYSQL_DATABASE)
 
 # Path to init.sql file. This file can be replaced with your own file for testing on localhost, but do NOT move the init.sql file
-mysql_engine.load_file_into_db('/Users/2090km/4300-Template-Spring-2023/init.sql')
+mysql_engine.load_file_into_db() #may need to add path to init.sql as parameter here
 
 app = Flask(__name__)
 CORS(app)
