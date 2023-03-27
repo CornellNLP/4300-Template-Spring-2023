@@ -96,7 +96,7 @@ def process_query(query, td_matrix, city_rev_index, tok_method, stemmer, stops, 
 
 # metadata
 def main(query):
-    df = pd.read_csv('/path/to/api_data.csv', names=['City', 'Description'])
+    df = pd.read_csv('../source-code/api_data.csv', names=['City', 'Description'])
     stoplist = set(stopwords.words('english'))
     ps = PorterStemmer()
 
