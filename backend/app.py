@@ -96,7 +96,7 @@ def process_query(query, td_matrix, city_rev_index, tok_method, stemmer, stops, 
 
 # metadata
 def main(query):
-    df = pd.read_csv('../source-code/api_data.csv', names=['City', 'Description'])
+    df = pd.read_csv('./backend/api_data.csv', names=['City', 'Description'])
     stoplist = set(stopwords.words('english'))
     ps = PorterStemmer()
 
@@ -128,7 +128,7 @@ def home():
 @app.route("/episodes")
 def episodes_search():
     text = request.args.get("title")
-    return sql_search(text)
-    #return main(text)
+    #return sql_search(text)
+    return main(text)
 
 app.run(debug=True)
