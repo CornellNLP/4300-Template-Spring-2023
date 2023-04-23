@@ -1,0 +1,160 @@
+/* Global styles */
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #f8f8f8;
+  }
+  
+  header {
+    background-color: #89cff9;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    outline: 5px dotted black
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav li {
+    margin-right: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 2rem;
+  }
+  
+  h1 {
+    -webkit-text-stroke:0.8px black;
+    font-size: 45px;
+  }
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  form {
+    display: wrap;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  label {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1.3em
+  }
+
+  button {
+    padding: 0.9em;
+    margin-top: 2em;
+  }
+  
+  select {
+    padding: 0.5rem;
+  }
+
+  .q1,.q01, .q2, .q3, .q4{
+    padding: 0.5em;
+    font-size: 20px
+  }
+
+  .q4 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .size-slider {
+    width: 65%;
+  }
+
+  .price-display {
+    position: relative;
+    margin-top: -17px;
+    margin-right: 1100px;
+}
+
+  footer {
+    padding: 1.4em;
+  }
+  
+  .slider {
+    -webkit-appearance: none;
+    width: 70%;
+    height: 20px;
+    border-radius: 10px;
+    background: #ddd;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    margin-top: -110px;
+    position: relative;
+   }
+
+  .slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #5799e5;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 30px;
+    height: 30px;
+    border-radius: 20%;
+    background: #549fd5;
+    cursor: pointer;
+}
+
+.tick-container {
+    display: flex;
+    width: 28%;
+    margin-left: -30px;
+  }
+  
+  .tick-label {
+    flex: 5px;
+    text-align: center;
+  }
+
+  ul  {
+    padding: 0.5em;
+  }
+
+  li {
+    padding: 2em;
+  }
+
+  img {
+    margin-top: 1em;
+  }
+
+.hidden {
+  display: none;
+}

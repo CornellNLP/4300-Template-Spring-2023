@@ -1,0 +1,378 @@
+,INSTNM,INSTURL,instabbr,subr_from_name,subr_from_abbr,compd,match_only,subr_match
+43,Samford University,www.samford.edu/, samford  ,r/samfordstepsing,r/samfordstepsing,r/samfordstepsing,True,True
+59,Alaska Pacific University,www.alaskapacific.edu/, alaskapacific  ,r/AlaskaPacific,r/AlaskaPacific,r/AlaskaPacific,True,True
+70,Arizona State University Campus Immersion,www.asu.edu/, asu  ,r/ASU,r/ASU,r/ASU,True,True
+97,Rio Salado College,www.rio.maricopa.edu/, rio.maricopa  ,r/MCCCD,r/MCCCD,r/MCCCD,True,True
+168,Allan Hancock College,www.hancockcollege.edu/, hancockcollege  ,r/Hancock,r/Hancock,r/Hancock,True,True
+180,Azusa Pacific University,www.apu.edu/, apu  ,r/apu,r/apu,r/apu,True,True
+181,Bakersfield College,www.bakersfieldcollege.edu/, bakersfieldcollege  ,r/BakersfieldCollege,r/BakersfieldCollege,r/BakersfieldCollege,True,True
+185,Biola University,https://www.biola.edu/,  biola  ,r/Biola,r/Biola,r/Biola,True,True
+196,California Polytechnic State University-San Luis Obispo,calpoly.edu/,calpoly  ,r/CalPoly,r/CalPoly,r/CalPoly,True,True
+210,California State University-Sacramento,https://www.csus.edu/,  csus  ,r/CSUS,r/CSUS,r/CSUS,True,True
+219,University of California-Santa Cruz,www.ucsc.edu/, ucsc  ,r/UCSC,r/UCSC,r/UCSC,True,True
+240,Chabot College,www.chabotcollege.edu/, chabotcollege  ,r/ChabotCollege,r/ChabotCollege,r/ChabotCollege,True,True
+242,Chapman University,https://www.chapman.edu/,  chapman  ,r/chapmanuniversity,r/chapmanuniversity,r/chapmanuniversity,True,True
+247,Citrus College,https://www.citruscollege.edu/,  citruscollege  ,r/CitrusCollege,r/CitrusCollege,r/CitrusCollege,True,True
+267,De Anza College,www.deanza.edu/, deanza  ,r/DeAnza,r/DeAnza,r/DeAnza,True,True
+270,College of the Desert,www.collegeofthedesert.edu/, collegeofthedesert  ,r/CollegeoftheDesert,r/CollegeoftheDesert,r/CollegeoftheDesert,True,True
+287,Foothill College,https://foothill.edu/, foothill  ,r/foothill,r/foothill,r/foothill,True,True
+301,Grossmont College,https://www.grossmont.edu/,  grossmont  ,r/grossmont,r/grossmont,r/grossmont,True,True
+343,Loyola Marymount University,https://www.lmu.edu/,  lmu  ,r/LMU,r/LMU,r/LMU,True,True
+353,Merced College,www.mccd.edu/, mccd  ,r/Merced,r/Merced,r/Merced,True,True
+356,MiraCosta College,www.miracosta.edu/, miracosta  ,r/miracosta,r/miracosta,r/miracosta,True,True
+366,Mt San Jacinto Community College District,www.msjc.edu/, msjc  ,r/MSJC,r/MSJC,r/MSJC,True,True
+380,Occidental College,https://www.oxy.edu/,  oxy  ,r/Oxy,r/Oxy,r/Oxy,True,True
+381,Ohlone College,www.ohlone.edu/, ohlone  ,r/OhloneCollege,r/OhloneCollege,r/OhloneCollege,True,True
+396,Pepperdine University,www.pepperdine.edu/, pepperdine  ,r/Pepperdine,r/Pepperdine,r/Pepperdine,True,True
+397,Pitzer College,https://www.pitzer.edu/,  pitzer  ,r/pitzer,r/pitzer,r/pitzer,True,True
+421,University of San Diego,www.sandiego.edu/, sandiego  ,r/sandiego,r/sandiego,r/sandiego,True,True
+424,San Francisco State University,www.sfsu.edu/, sfsu  ,r/SFSU,r/SFSU,r/SFSU,True,True
+425,University of San Francisco,https://www.usfca.edu/,  usfca  ,r/usfca,r/usfca,r/usfca,True,True
+436,Santa Barbara City College,www.sbcc.edu/, sbcc  ,r/SBCC,r/SBCC,r/SBCC,True,True
+437,Santa Clara University,www.scu.edu/, scu  ,r/SCU,r/SCU,r/SCU,True,True
+439,Santa Rosa Junior College,www.santarosa.edu/, santarosa  ,r/santarosa,r/santarosa,r/santarosa,True,True
+441,Scripps College,www.scrippscollege.edu/, scrippscollege  ,r/scrippscollege,r/scrippscollege,r/scrippscollege,True,True
+445,Sierra College,https://www.sierracollege.edu/,  sierracollege  ,r/SierraCollege,r/SierraCollege,r/SierraCollege,True,True
+451,Skyline College,skylinecollege.edu/,skylinecollege  ,r/SkylineCollege,r/SkylineCollege,r/SkylineCollege,True,True
+465,University of Southern California,www.usc.edu/, usc  ,r/USC,r/USC,r/USC,True,True
+467,Taft College,www.taftcollege.edu/, taftcollege  ,r/TaftCollege,r/TaftCollege,r/TaftCollege,True,True
+479,Walden University,www.waldenu.edu/, waldenu  ,r/WaldenUniversity,r/WaldenUniversity,r/WaldenUniversity,True,True
+503,Colorado College,www.coloradocollege.edu/, coloradocollege  ,r/coloradocollege,r/coloradocollege,r/coloradocollege,True,True
+507,Colorado School of Mines,www.mines.edu/, mines  ,r/ColoradoSchoolOfMines,r/ColoradoSchoolOfMines,r/ColoradoSchoolOfMines,True,True
+510,Colorado Technical University-Colorado Springs,www.coloradotech.edu/Colorado-Springs, coloradotech  Colorado-Springs,r/ColoradoSprings,r/ColoradoSprings,r/ColoradoSprings,True,True
+514,Lincoln College of Technology-Denver,www.lincolntech.edu/campus/denver-co, lincolntech  campus denver-co,r/Colorado,r/Colorado,r/Colorado,True,True
+515,Denver Seminary,www.denverseminary.edu/, denverseminary  ,r/denverseminary,r/denverseminary,r/denverseminary,True,True
+518,Fort Lewis College,fortlewis.edu/,fortlewis  ,r/FortLewisCollege,r/FortLewisCollege,r/FortLewisCollege,True,True
+526,Naropa University,www.naropa.edu/, naropa  ,r/NaropaUniversity,r/NaropaUniversity,r/NaropaUniversity,True,True
+533,Red Rocks Community College,www.rrcc.edu/, rrcc  ,r/RRCC,r/RRCC,r/RRCC,True,True
+545,Albertus Magnus College,https://www.albertus.edu/,  albertus  ,r/MenofLetters,r/MenofLetters,r/MenofLetters,True,True
+582,Sacred Heart University,https://www.sacredheart.edu/,  sacredheart  ,r/Sacredheart,r/Sacredheart,r/Sacredheart,True,True
+590,Wesleyan University,www.wesleyan.edu/, wesleyan  ,r/Wesleyan,r/Wesleyan,r/Wesleyan,True,True
+592,Yale University,https://www.yale.edu/,  yale  ,r/yale,r/yale,r/yale,True,True
+607,George Washington University,https://www.gwu.edu/,  gwu  ,r/gwu,r/gwu,r/gwu,True,True
+608,Georgetown University,www.georgetown.edu/, georgetown  ,r/georgetown,r/georgetown,r/georgetown,True,True
+617,Bethune-Cookman University,www.cookman.edu/, cookman  ,r/HBCU,r/HBCU,r/HBCU,True,True
+629,Daytona State College,www.daytonastate.edu/, daytonastate  ,r/DaytonaStateCollege,r/DaytonaStateCollege,r/DaytonaStateCollege,True,True
+630,South University-West Palm Beach,"www.southuniversity.edu/west-palm-beach#location=West Palm Beach, FL"," southuniversity  west-palm-beach#location=West Palm Beach, FL",r/WestPalmBeach,r/WestPalmBeach,r/WestPalmBeach,True,True
+631,Eckerd College,https://www.eckerd.edu/,  eckerd  ,r/eckerdcollege,r/eckerdcollege,r/eckerdcollege,True,True
+632,Florida SouthWestern State College,https://www.fsw.edu/,  fsw  ,r/FSW,r/FSW,r/FSW,True,True
+636,Florida Atlantic University,www.fau.edu/, fau  ,r/FAU,r/FAU,r/FAU,True,True
+652,Florida State University,https://www.fsu.edu/,  fsu  ,r/fsu,r/fsu,r/fsu,True,True
+664,Indian River State College,www.irsc.edu/, irsc  ,r/IRSC,r/IRSC,r/IRSC,True,True
+678,State College of Florida-Manatee-Sarasota,www.scf.edu/, scf  ,r/scf,r/scf,r/scf,True,True
+691,Northwest Florida State College,https://www.nwfsc.edu/,  nwfsc  ,r/NWFSC,r/NWFSC,r/NWFSC,True,True
+711,Seminole State College of Florida,https://www.seminolestate.edu/,  seminolestate  ,r/SeminoleStateCollege,r/SeminoleStateCollege,r/SeminoleStateCollege,True,True
+715,South Florida State College,www.southflorida.edu/, southflorida  ,r/SouthFlorida,r/SouthFlorida,r/SouthFlorida,True,True
+718,Stetson University,https://www.stetson.edu/,  stetson  ,r/Stetson,r/Stetson,r/Stetson,True,True
+730,Valencia College,valenciacollege.edu/,valenciacollege  ,r/ValenciaCollege,r/ValenciaCollege,r/ValenciaCollege,True,True
+741,Agnes Scott College,www.agnesscott.edu/, agnesscott  ,r/AgnesScottCollege,r/AgnesScottCollege,r/AgnesScottCollege,True,True
+773,Emory University,www.emory.edu/, emory  ,r/Emory,r/Emory,r/Emory,True,True
+780,Georgia Southern University,www.georgiasouthern.edu/, georgiasouthern  ,r/georgiasouthern,r/georgiasouthern,r/georgiasouthern,True,True
+789,LaGrange College,www.lagrange.edu/, lagrange  ,r/lagrange,r/lagrange,r/lagrange,True,True
+794,Mercer University,https://www.mercer.edu/,  mercer  ,r/mercer,r/mercer,r/mercer,True,True
+795,Morehouse College,www.morehouse.edu/, morehouse  ,r/MorehouseCollege,r/MorehouseCollege,r/MorehouseCollege,True,True
+798,Oglethorpe University,oglethorpe.edu/,oglethorpe  ,r/oglethorpe,r/oglethorpe,r/oglethorpe,True,True
+809,Spelman College,www.spelman.edu/, spelman  ,r/AUC,r/AUC,r/AUC,True,True
+837,Lewis-Clark State College,www.lcsc.edu/, lcsc  ,r/lcsc,r/lcsc,r/lcsc,True,True
+849,Augustana College,www.augustana.edu/, augustana  ,r/Augustana,r/Augustana,r/Augustana,True,True
+883,DePaul University,https://www.depaul.edu/,  depaul  ,r/depaul,r/depaul,r/depaul,True,True
+897,Greenville University,www.greenville.edu/, greenville  ,r/greenville,r/greenville,r/greenville,True,True
+913,Illinois State University,illinoisstate.edu/,illinoisstate  ,r/ilstu,r/ilstu,r/ilstu,True,True
+943,McKendree University,https://www.mckendree.edu/,  mckendree  ,r/McKendree_University,r/McKendree_University,r/McKendree_University,True,True
+946,Millikin University,https://millikin.edu/, millikin  ,r/millikin,r/millikin,r/millikin,True,True
+958,Northern Illinois University,www.niu.edu/, niu  ,r/NIU,r/NIU,r/NIU,True,True
+959,Northwestern University,www.northwestern.edu/, northwestern  ,r/Northwestern,r/Northwestern,r/Northwestern,True,True
+973,Roosevelt University,www.roosevelt.edu/, roosevelt  ,r/Roosevelt,r/Roosevelt,r/Roosevelt,True,True
+983,St. Augustine College,www.staugustine.edu/, staugustine  ,r/StAugustine,r/StAugustine,r/StAugustine,True,True
+992,Southern Illinois University-Edwardsville,www.siue.edu/, siue  ,r/SIUE,r/SIUE,r/SIUE,True,True
+1017,DePauw University,www.depauw.edu/, depauw  ,r/DePauw,r/DePauw,r/DePauw,True,True
+1019,Earlham College,https://earlham.edu/, earlham  ,r/EarlhamCollege,r/EarlhamCollege,r/EarlhamCollege,True,True
+1021,Franklin College,www.franklincollege.edu/, franklincollege  ,r/franklincollege,r/franklincollege,r/franklincollege,True,True
+1029,Ivy Tech Community College,www.ivytech.edu/, ivytech  ,r/ivytech,r/ivytech,r/ivytech,True,True
+1047,Manchester University,www.manchester.edu/, manchester  ,r/manchester,r/manchester,r/manchester,True,True
+1067,Valparaiso University,https://www.valpo.edu/,  valpo  ,r/valpo,r/valpo,r/valpo,True,True
+1070,Wabash College,www.wabash.edu/, wabash  ,r/wabash,r/wabash,r/wabash,True,True
+1078,Coe College,www.coe.edu/, coe  ,r/Coe_College,r/Coe_College,r/Coe_College,True,True
+1079,Cornell College,www.cornellcollege.edu/, cornellcollege  ,r/cornellcollege,r/cornellcollege,r/cornellcollege,True,True
+1091,Grinnell College,www.grinnell.edu/, grinnell  ,r/Grinnell,r/Grinnell,r/Grinnell,True,True
+1102,Iowa Western Community College,www.iwcc.edu/, iwcc  ,r/iastate,r/iastate,r/iastate,True,True
+1109,Loras College,www.loras.edu/, loras  ,r/Loras,r/Loras,r/Loras,True,True
+1129,Simpson College,simpson.edu/,simpson  ,r/simpson,r/simpson,r/simpson,True,True
+1137,Wartburg College,www.wartburg.edu/, wartburg  ,r/wartburg,r/wartburg,r/wartburg,True,True
+1145,Benedictine College,www.benedictine.edu/, benedictine  ,r/BenedictineCollege,r/BenedictineCollege,r/BenedictineCollege,True,True
+1169,Johnson County Community College,www.jccc.edu/, jccc  ,r/jccc,r/jccc,r/jccc,True,True
+1176,Kansas State University,www.k-state.edu/, k-state  ,r/KState,r/KState,r/KState,True,True
+1182,McPherson College,www.mcpherson.edu/, mcpherson  ,r/McPherson,r/McPherson,r/McPherson,True,True
+1187,Ottawa University-Ottawa,www.ottawa.edu/, ottawa  ,r/ottawa,r/ottawa,r/ottawa,True,True
+1197,Washburn University,www.washburn.edu/, washburn  ,r/Washburn,r/Washburn,r/Washburn,True,True
+1207,Berea College,https://www.berea.edu/,  berea  ,r/berea,r/berea,r/berea,True,True
+1213,Centre College,https://www.centre.edu/,  centre  ,r/Centre,r/Centre,r/Centre,True,True
+1255,The Southern Baptist Theological Seminary,www.sbts.edu/, sbts  ,r/sbts,r/sbts,r/sbts,True,True
+1291,McNeese State University,www.mcneese.edu/, mcneese  ,r/mcneese,r/mcneese,r/mcneese,True,True
+1297,Northwestern State University of Louisiana,www.nsula.edu/, nsula  ,r/nsula,r/nsula,r/nsula,True,True
+1310,Southeastern Louisiana University,www.southeastern.edu/, southeastern  ,r/Southeastern,r/Southeastern,r/Southeastern,True,True
+1321,Bowdoin College,https://www.bowdoin.edu/,  bowdoin  ,r/Bowdoin,r/Bowdoin,r/Bowdoin,True,True
+1324,Colby College,www.colby.edu/, colby  ,r/Colby,r/Colby,r/Colby,True,True
+1334,University of Maine at Presque Isle,www.umpi.edu/, umpi  ,r/UMPI,r/UMPI,r/UMPI,True,True
+1355,College of Southern Maryland,www.csmd.edu/, csmd  ,r/SOMD,r/SOMD,r/SOMD,True,True
+1364,Goucher College,www.goucher.edu/, goucher  ,r/Goucher,r/Goucher,r/Goucher,True,True
+1370,Johns Hopkins University,www.jhu.edu/, jhu  ,r/jhu,r/jhu,r/jhu,True,True
+1376,University of Maryland-College Park,www.umd.edu/, umd  ,r/UMD,r/UMD,r/UMD,True,True
+1387,Prince George's Community College,www.pgcc.edu/, pgcc  ,r/PGCC,r/PGCC,r/PGCC,True,True
+1390,Salisbury University,https://www.salisbury.edu/,  salisbury  ,r/Salisbury,r/Salisbury,r/Salisbury,True,True
+1391,St. Mary's College of Maryland,www.smcm.edu/, smcm  ,r/smcm,r/smcm,r/smcm,True,True
+1395,United States Naval Academy,www.usna.edu/, usna  ,r/usna,r/usna,r/usna,True,True
+1397,Washington College,www.washcoll.edu/, washcoll  ,r/WashingtonCollege,r/WashingtonCollege,r/WashingtonCollege,True,True
+1398,McDaniel College,www.mcdaniel.edu/, mcdaniel  ,r/SarahRoseMcDaniel,r/SarahRoseMcDaniel,r/SarahRoseMcDaniel,True,True
+1406,Babson College,www.babson.edu/, babson  ,r/Babson,r/Babson,r/Babson,True,True
+1420,Brandeis University,https://www.brandeis.edu/,  brandeis  ,r/brandeis,r/brandeis,r/brandeis,True,True
+1429,Clark University,www.clarku.edu/, clarku  ,r/ClarkU,r/ClarkU,r/ClarkU,True,True
+1437,Emerson College,www.emerson.edu/, emerson  ,r/EmersonCollege,r/EmersonCollege,r/EmersonCollege,True,True
+1449,Harvard University,www.harvard.edu/, harvard  ,r/Harvard,r/Harvard,r/Harvard,True,True
+1459,University of Massachusetts-Lowell,www.uml.edu/, uml  ,r/uml,r/uml,r/uml,True,True
+1460,University of Massachusetts-Amherst,www.umass.edu/, umass  ,r/umass,r/umass,r/umass,True,True
+1484,North Shore Community College,www.northshore.edu/, northshore  ,r/northshore,r/northshore,r/northshore,True,True
+1497,Bard College at Simon's Rock,www.simons-rock.edu/, simons-rock  ,r/simonsrock,r/simonsrock,r/simonsrock,True,True
+1500,Springfield College,www.springfield.edu/, springfield  ,r/Springfield,r/Springfield,r/Springfield,True,True
+1503,Stonehill College,https://www.stonehill.edu/,  stonehill  ,r/StonehillCollege,r/StonehillCollege,r/StonehillCollege,True,True
+1506,Tufts University,https://www.tufts.edu/,  tufts  ,r/Tufts,r/Tufts,r/Tufts,True,True
+1513,Worcester Polytechnic Institute,https://www.wpi.edu/,  wpi  ,r/WPI,r/WPI,r/WPI,True,True
+1516,Albion College,www.albion.edu/, albion  ,r/Albion,r/Albion,r/Albion,True,True
+1522,Aquinas College,www.aquinas.edu/, aquinas  ,r/aquinas,r/aquinas,r/aquinas,True,True
+1525,Bayshire Academy of Beauty Craft Inc,www.bayshirebeautyacademy.edu/, bayshirebeautyacademy  ,r/BayCityMichigan,r/BayCityMichigan,r/BayCityMichigan,True,True
+1528,Carnegie Institute,https://www.carnegie-institute.edu/,  carnegie-institute  ,r/code,r/code,r/code,True,True
+1550,Kettering University,https://www.kettering.edu/,  kettering  ,r/Kettering,r/Kettering,r/Kettering,True,True
+1558,Hillsdale College,https://www.hillsdale.edu/,  hillsdale  ,r/hillsdale,r/hillsdale,r/hillsdale,True,True
+1561,Kalamazoo College,https://www.kzoo.edu/,  kzoo  ,r/kzoo,r/kzoo,r/kzoo,True,True
+1576,Michigan State University,https://www.msu.edu/,  msu  ,r/msu,r/msu,r/msu,True,True
+1580,Mid Michigan College,www.midmich.edu/, midmich  ,r/MidMichigan,r/MidMichigan,r/MidMichigan,True,True
+1586,Northwestern Michigan College,https://www.nmc.edu/,  nmc  ,r/nmc,r/nmc,r/nmc,True,True
+1601,Southwestern Michigan College,www.swmich.edu/, swmich  ,r/swmich,r/swmich,r/swmich,True,True
+1629,Concordia College at Moorhead,https://www.concordiacollege.edu/,  concordiacollege  ,r/Moorhead,r/Moorhead,r/Moorhead,True,True
+1637,Gustavus Adolphus College,gustavus.edu/,gustavus  ,r/gustavus,r/gustavus,r/gustavus,True,True
+1638,Hamline University,www.hamline.edu/, hamline  ,r/Hamline,r/Hamline,r/Hamline,True,True
+1646,Macalester College,www.macalester.edu/, macalester  ,r/macalester,r/macalester,r/macalester,True,True
+1674,Saint Cloud State University,https://www.stcloudstate.edu/,  stcloudstate  ,r/StCloudState,r/StCloudState,r/StCloudState,True,True
+1721,Mississippi State University,https://www.msstate.edu/,  msstate  ,r/Msstate,r/Msstate,r/Msstate,True,True
+1722,Northeast Mississippi Community College,www.nemcc.edu/, nemcc  ,r/NEMCC,r/NEMCC,r/NEMCC,True,True
+1753,Drury University,www.drury.edu/, drury  ,r/DruryUniversity,r/DruryUniversity,r/DruryUniversity,True,True
+1758,Fontbonne University,https://www.fontbonne.edu/,  fontbonne  ,r/Fontbonne,r/Fontbonne,r/Fontbonne,True,True
+1760,Ozarks Technical Community College,www.otc.edu/, otc  ,r/OTC,r/OTC,r/OTC,True,True
+1776,Logan University,https://www.logan.edu/,  logan  ,r/Logan,r/Logan,r/Logan,True,True
+1802,Ranken Technical College,www.ranken.edu/, ranken  ,r/Ranken,r/Ranken,r/Ranken,True,True
+1804,Rockhurst University,https://www.rockhurst.edu/,  rockhurst  ,r/kansascity,r/kansascity,r/kansascity,True,True
+1820,Three Rivers College,https://trcc.edu/, trcc  ,r/trcc,r/trcc,r/trcc,True,True
+1860,Creighton University,https://www.creighton.edu/,  creighton  ,r/Creighton,r/Creighton,r/Creighton,True,True
+1890,University of Nevada-Reno,www.unr.edu/, unr  ,r/unr,r/unr,r/unr,True,True
+1892,Sierra Nevada University,www.sierranevada.edu/, sierranevada  ,r/SierraNevada,r/SierraNevada,r/SierraNevada,True,True
+1893,Truckee Meadows Community College,www.tmcc.edu/, tmcc  ,r/tmcc,r/tmcc,r/tmcc,True,True
+1897,Dartmouth College,www.dartmouth.edu/, dartmouth  ,r/dartmouth,r/dartmouth,r/dartmouth,True,True
+1909,University of New Hampshire-Main Campus,www.unh.edu/, unh  ,r/unh,r/unh,r/unh,True,True
+1947,Essex County College,www.essex.edu/, essex  ,r/Essex,r/Essex,r/Essex,True,True
+1962,Kean University,https://www.kean.edu/,  kean  ,r/KeanUniversity,r/KeanUniversity,r/KeanUniversity,True,True
+1966,Middlesex College,www.middlesexcc.edu/, middlesexcc  ,r/middlesexcc,r/middlesexcc,r/middlesexcc,True,True
+2000,Thomas Edison State University,www.tesu.edu/, tesu  ,r/tesu,r/tesu,r/tesu,True,True
+2009,Eastern New Mexico University-Main Campus,www.enmu.edu/, enmu  ,r/ENMU,r/ENMU,r/ENMU,True,True
+2010,Eastern New Mexico University-Roswell Campus,www.roswell.enmu.edu/, roswell.enmu  ,r/ENMU,r/ENMU,r/ENMU,True,True
+2014,New Mexico Military Institute,www.nmmi.edu/, nmmi  ,r/NMMI,r/NMMI,r/NMMI,True,True
+2016,New Mexico Institute of Mining and Technology,www.nmt.edu/, nmt  ,r/nmt,r/nmt,r/nmt,True,True
+2018,University of New Mexico-Main Campus,www.unm.edu/, unm  ,r/unm,r/unm,r/unm,True,True
+2022,New Mexico State University-Main Campus,www.nmsu.edu/, nmsu  ,r/nmsu,r/nmsu,r/nmsu,True,True
+2035,Adelphi University,www.adelphi.edu/, adelphi  ,r/AdelphiUniversity,r/AdelphiUniversity,r/AdelphiUniversity,True,True
+2064,SUNY Broome Community College,www.sunybroome.edu/, sunybroome  ,r/SUNYBroome,r/SUNYBroome,r/SUNYBroome,True,True
+2068,Canisius College,https://www.canisius.edu/,  canisius  ,r/Canisius,r/Canisius,r/Canisius,True,True
+2081,Colgate University,https://www.colgate.edu/,  colgate  ,r/Colgate,r/Colgate,r/Colgate,True,True
+2089,Cornell University,www.cornell.edu/, cornell  ,r/Cornell,r/Cornell,r/Cornell,True,True
+2094,CUNY Bernard M Baruch College,www.baruch.cuny.edu/, baruch.cuny  ,r/Baruch,r/Baruch,r/Baruch,True,True
+2095,CUNY Borough of Manhattan Community College,www.bmcc.cuny.edu/, bmcc.cuny  ,r/cunyBMCC,r/cunyBMCC,r/cunyBMCC,True,True
+2101,CUNY Hostos Community College,www.hostos.cuny.edu/, hostos.cuny  ,r/CUNYHCC,r/CUNYHCC,r/CUNYHCC,True,True
+2102,CUNY Hunter College,www.hunter.cuny.edu/, hunter.cuny  ,r/HunterCollege,r/HunterCollege,r/HunterCollege,True,True
+2109,CUNY Queens College,https://www.qc.cuny.edu/,  qc.cuny  ,r/QueensCollege,r/QueensCollege,r/QueensCollege,True,True
+2112,CUNY York College,www.york.cuny.edu/, york.cuny  ,r/YorkCollegeCuny,r/YorkCollegeCuny,r/YorkCollegeCuny,True,True
+2123,Fashion Institute of Technology,www.fitnyc.edu/, fitnyc  ,r/fitnyc,r/fitnyc,r/fitnyc,True,True
+2126,Fordham University,www.fordham.edu/, fordham  ,r/Fordham,r/Fordham,r/Fordham,True,True
+2133,Hartwick College,www.hartwick.edu/, hartwick  ,r/MidYork,r/MidYork,r/MidYork,True,True
+2137,Hobart William Smith Colleges,www.hws.edu/, hws  ,r/HWS,r/HWS,r/HWS,True,True
+2138,Hofstra University,www.hofstra.edu/, hofstra  ,r/Hofstra,r/Hofstra,r/Hofstra,True,True
+2154,Le Moyne College,www.lemoyne.edu/, lemoyne  ,r/LemoyneCollege,r/LemoyneCollege,r/LemoyneCollege,True,True
+2165,Marist College,www.marist.edu/, marist  ,r/marist,r/marist,r/marist,True,True
+2167,Medaille College,www.medaille.edu/, medaille  ,r/Buffalo,r/Buffalo,r/Buffalo,True,True
+2215,Pratt Institute-Main,www.pratt.edu/, pratt  ,r/Pratt,r/Pratt,r/Pratt,True,True
+2221,Rabbinical Seminary of America,www.rabbinical.org/, rabbinical.org ,r/Giyur,r/Giyur,r/Giyur,True,True
+2222,Rensselaer Polytechnic Institute,www.rpi.edu/, rpi  ,r/RPI,r/RPI,r/RPI,True,True
+2238,Sarah Lawrence College,www.sarahlawrence.edu/, sarahlawrence  ,r/sarahlawrence,r/sarahlawrence,r/sarahlawrence,True,True
+2241,Siena College,https://www.siena.edu/,  siena  ,r/siena,r/siena,r/siena,True,True
+2242,Skidmore College,www.skidmore.edu/, skidmore  ,r/skidmore,r/skidmore,r/skidmore,True,True
+2246,Saint John Fisher College,https://www.sjfc.edu/,  sjfc  ,r/sjfc,r/sjfc,r/sjfc,True,True
+2259,Stony Brook University,https://www.stonybrook.edu/,  stonybrook  ,r/stonybrookuniversity,r/stonybrookuniversity,r/stonybrookuniversity,True,True
+2268,SUNY Oneonta,https://suny.oneonta.edu/, suny.oneonta  ,r/SUNYOneonta,r/SUNYOneonta,r/SUNYOneonta,True,True
+2277,SUNY Maritime College,www.sunymaritime.edu/, sunymaritime  ,r/SunyMaritime,r/SunyMaritime,r/SunyMaritime,True,True
+2286,Touro College,www.touro.edu/, touro  ,r/TouroCollege,r/TouroCollege,r/TouroCollege,True,True
+2296,Vassar College,www.vassar.edu/, vassar  ,r/vassar,r/vassar,r/vassar,True,True
+2303,SUNY Westchester Community College,www.sunywcc.edu/, sunywcc  ,r/SUNYWCC,r/SUNYWCC,r/SUNYWCC,True,True
+2315,Appalachian State University,www.appstate.edu/, appstate  ,r/appstate,r/appstate,r/appstate,True,True
+2316,Asheville-Buncombe Technical Community College,www.abtech.edu/, abtech  ,r/ABTech,r/ABTech,r/ABTech,True,True
+2328,Cape Fear Community College,www.cfcc.edu/, cfcc  ,r/CFCC,r/CFCC,r/CFCC,True,True
+2334,Central Piedmont Community College,www.cpcc.edu/, cpcc  ,r/CPCC,r/CPCC,r/CPCC,True,True
+2340,Davidson College,https://davidson.edu/, davidson  ,r/davidson,r/davidson,r/davidson,True,True
+2341,Duke University,www.duke.edu/, duke  ,r/duke,r/duke,r/duke,True,True
+2343,East Carolina University,www.ecu.edu/, ecu  ,r/ECU,r/ECU,r/ECU,True,True
+2346,Elon University,www.elon.edu/, elon  ,r/elon,r/elon,r/elon,True,True
+2350,Gardner-Webb University,www.gardner-webb.edu/, gardner-webb  ,r/collegebballneverbeen,r/collegebballneverbeen,r/collegebballneverbeen,True,True
+2353,Guilford College,https://www.guilford.edu/,  guilford  ,r/GuilfordCollege,r/GuilfordCollege,r/GuilfordCollege,True,True
+2385,University of North Carolina at Chapel Hill,www.unc.edu/, unc  ,r/UNC,r/UNC,r/UNC,True,True
+2388,North Carolina Central University,https://www.nccu.edu/,  nccu  ,r/NCCU,r/NCCU,r/NCCU,True,True
+2422,Wake Forest University,www.wfu.edu/, wfu  ,r/wfu,r/wfu,r/wfu,True,True
+2423,Wake Technical Community College,www.waketech.edu/, waketech  ,r/WakeTech,r/WakeTech,r/WakeTech,True,True
+2424,Warren Wilson College,https://www.warren-wilson.edu/,  warren-wilson  ,r/wwc,r/wwc,r/wwc,True,True
+2430,Wingate University,https://www.wingate.edu/,  wingate  ,r/wingate,r/wingate,r/wingate,True,True
+2481,Cedarville University,https://www.cedarville.edu/,  cedarville  ,r/CedarvilleUniversity,r/CedarvilleUniversity,r/CedarvilleUniversity,True,True
+2506,Denison University,https://www.denison.edu/,  denison  ,r/Denison,r/Denison,r/Denison,True,True
+2536,Kenyon College,https://www.kenyon.edu/,  kenyon  ,r/Kenyon,r/Kenyon,r/Kenyon,True,True
+2562,Muskingum University,www.muskingum.edu/, muskingum  ,r/MuskingumUniversity,r/MuskingumUniversity,r/MuskingumUniversity,True,True
+2571,Oberlin College,www.oberlin.edu/, oberlin  ,r/oberlin,r/oberlin,r/oberlin,True,True
+2579,Ohio State University-Newark Campus,newark.osu.edu/,newark.osu  ,r/OSU,r/OSU,r/OSU,True,True
+2584,Ohio State University-Main Campus,www.osu.edu/, osu  ,r/OSU,r/OSU,r/OSU,True,True
+2585,Ohio University-Eastern Campus,https://www.ohio.edu/eastern/,  ohio  eastern ,r/Kentucky,r/Kentucky,r/Kentucky,True,True
+2590,Ohio University-Zanesville Campus,https://www.ohio.edu/zanesville/,  ohio  zanesville ,r/Ohio,r/Ohio,r/Ohio,True,True
+2594,Otterbein University,https://www.otterbein.edu/,  otterbein  ,r/Otterbein,r/Otterbein,r/Otterbein,True,True
+2612,Franciscan University of Steubenville,www.franciscan.edu/, franciscan  ,r/franciscanuniversity,r/franciscanuniversity,r/franciscanuniversity,True,True
+2664,Oklahoma State University-Main Campus,www.okstate.edu/, okstate  ,r/OKState,r/OKState,r/OKState,True,True
+2665,Oklahoma State University-Oklahoma City,www.osuokc.edu/, osuokc  ,r/OKState,r/OKState,r/OKState,True,True
+2702,Linfield University-McMinnville Campus,https://www.linfield.edu/,  linfield  ,r/linfield,r/linfield,r/linfield,True,True
+2709,Multnomah University,https://www.multnomah.edu/,  multnomah  ,r/PortlandSandbox,r/PortlandSandbox,r/PortlandSandbox,True,True
+2759,Bucknell University,www.bucknell.edu/, bucknell  ,r/bucknell,r/bucknell,r/bucknell,True,True
+2767,Carnegie Mellon University,www.cmu.edu/, cmu  ,r/cmu,r/cmu,r/cmu,True,True
+2768,Cedar Crest College,www.cedarcrest.edu/, cedarcrest  ,r/CedarCrestHigh,r/CedarCrestHigh,r/CedarCrestHigh,True,True
+2771,Chestnut Hill College,www.chc.edu/, chc  ,r/chc,r/chc,r/chc,True,True
+2779,Dickinson College,https://www.dickinson.edu/,  dickinson  ,r/Dickinson,r/Dickinson,r/Dickinson,True,True
+2781,Drexel University,https://drexel.edu/, drexel  ,r/Drexel,r/Drexel,r/Drexel,True,True
+2799,Franklin and Marshall College,www.fandm.edu/, fandm  ,r/fandm,r/fandm,r/fandm,True,True
+2804,Gratz College,https://www.gratz.edu/,  gratz  ,r/gratz,r/gratz,r/gratz,True,True
+2809,Haverford College,https://www.haverford.edu/,  haverford  ,r/Haverford,r/Haverford,r/Haverford,True,True
+2819,Juniata College,www.juniata.edu/, juniata  ,r/JuniataCollege,r/JuniataCollege,r/JuniataCollege,True,True
+2836,Lehigh University,www.lehigh.edu/, lehigh  ,r/Lehigh,r/Lehigh,r/Lehigh,True,True
+2847,Marywood University,www.marywood.edu/, marywood  ,r/marywood,r/marywood,r/marywood,True,True
+2850,Mercyhurst University,www.mercyhurst.edu/, mercyhurst  ,r/MercyhurstUniversity,r/MercyhurstUniversity,r/MercyhurstUniversity,True,True
+2859,Muhlenberg College,www.muhlenberg.edu/, muhlenberg  ,r/muhlenberg,r/muhlenberg,r/muhlenberg,True,True
+2883,University of Pittsburgh-Pittsburgh Campus,www.pitt.edu/, pitt  ,r/Pitt,r/Pitt,r/Pitt,True,True
+2890,Point Park University,www.pointpark.edu/, pointpark  ,r/PointParkUni,r/PointParkUni,r/PointParkUni,True,True
+2897,Robert Morris University,www.rmu.edu/, rmu  ,r/RMU,r/RMU,r/RMU,True,True
+2906,Seton Hill University,www.setonhill.edu/, setonhill  ,r/setonhill,r/setonhill,r/setonhill,True,True
+2918,Swarthmore College,www.swarthmore.edu/, swarthmore  ,r/Swarthmore,r/Swarthmore,r/Swarthmore,True,True
+2921,Temple University,www.temple.edu/, temple  ,r/Temple,r/Temple,r/Temple,True,True
+2924,Thomas Jefferson University,www.jefferson.edu/, jefferson  ,r/JeffersonUniversity,r/JeffersonUniversity,r/JeffersonUniversity,True,True
+2929,Ursinus College,www.ursinus.edu/, ursinus  ,r/ursinus,r/ursinus,r/ursinus,True,True
+2933,Villanova University,www.villanova.edu/, villanova  ,r/villanova,r/villanova,r/villanova,True,True
+2936,Waynesburg University,www.waynesburg.edu/, waynesburg  ,r/WaynesburgU,r/WaynesburgU,r/WaynesburgU,True,True
+2944,Widener University,https://www.widener.edu/,  widener  ,r/Widener,r/Widener,r/Widener,True,True
+2967,Anderson University,www.andersonuniversity.edu/, andersonuniversity  ,r/AndersonUniversity,r/AndersonUniversity,r/AndersonUniversity,True,True
+2979,Clemson University,www.clemson.edu/, clemson  ,r/Clemson,r/Clemson,r/Clemson,True,True
+2990,Greenville Technical College,www.gvltec.edu/, gvltec  ,r/GreenvilleTech,r/GreenvilleTech,r/GreenvilleTech,True,True
+3023,Winthrop University,www.winthrop.edu/, winthrop  ,r/Winthrop,r/Winthrop,r/Winthrop,True,True
+3028,Black Hills State University,www.bhsu.edu/, bhsu  ,r/BHSU,r/BHSU,r/BHSU,True,True
+3042,South Dakota School of Mines and Technology,https://www.sdsmt.edu/,  sdsmt  ,r/SDSMT,r/SDSMT,r/SDSMT,True,True
+3057,Belmont University,www.belmont.edu/, belmont  ,r/BelmontUniversity,r/BelmontUniversity,r/BelmontUniversity,True,True
+3093,Lee University,www.leeuniversity.edu/, leeuniversity  ,r/leeuniversity,r/leeuniversity,r/leeuniversity,True,True
+3097,Maryville College,www.maryvillecollege.edu/, maryvillecollege  ,r/maryvillecollege,r/maryvillecollege,r/maryvillecollege,True,True
+3137,Trevecca Nazarene University,https://www.trevecca.edu/,  trevecca  ,r/Trevecca,r/Trevecca,r/Trevecca,True,True
+3141,Vanderbilt University,www.vanderbilt.edu/, vanderbilt  ,r/Vanderbilt,r/Vanderbilt,r/Vanderbilt,True,True
+3142,Volunteer State Community College,www.volstate.edu/, volstate  ,r/volstate,r/volstate,r/volstate,True,True
+3153,The Art Institute of Houston,www.artinstitutes.edu/houston, artinstitutes  houston,r/ArtInstituteOfHouston,r/ArtInstituteOfHouston,r/ArtInstituteOfHouston,True,True
+3154,Austin College,www.austincollege.edu/, austincollege  ,r/AustinCollege,r/AustinCollege,r/AustinCollege,True,True
+3155,Austin Community College District,www.austincc.edu/, austincc  ,r/austincc,r/austincc,r/austincc,True,True
+3161,Baylor University,www.baylor.edu/, baylor  ,r/baylor,r/baylor,r/baylor,True,True
+3163,Blinn College,www.blinn.edu/, blinn  ,r/Blinn,r/Blinn,r/Blinn,True,True
+3226,McLennan Community College,www.mclennan.edu/, mclennan  ,r/McLennancollege,r/McLennancollege,r/McLennancollege,True,True
+3257,Sam Houston State University,www.shsu.edu/, shsu  ,r/SHSU,r/SHSU,r/SHSU,True,True
+3263,South Plains College,www.southplainscollege.edu/, southplainscollege  ,r/SouthPlainsCollege,r/SouthPlainsCollege,r/SouthPlainsCollege,True,True
+3268,Southern Methodist University,https://www.smu.edu/,  smu  ,r/SMU,r/SMU,r/SMU,True,True
+3273,Stephen F Austin State University,www.sfasu.edu/, sfasu  ,r/sfasu,r/sfasu,r/sfasu,True,True
+3277,Sul Ross State University,www.sulross.edu/, sulross  ,r/SulRossState,r/SulRossState,r/SulRossState,True,True
+3279,Tarrant County College District,www.tccd.edu/, tccd  ,r/TCCD,r/TCCD,r/TCCD,True,True
+3288,The University of Texas at Austin,https://www.utexas.edu/,  utexas  ,r/UTAustin,r/UTAustin,r/UTAustin,True,True
+3300,Texas Tech University,www.ttu.edu/, ttu  ,r/TexasTech,r/TexasTech,r/TexasTech,True,True
+3311,Victoria College,www.victoriacollege.edu/, victoriacollege  ,r/VictoriaCollegeCCF,r/VictoriaCollegeCCF,r/VictoriaCollegeCCF,True,True
+3320,Brigham Young University,www.byu.edu/, byu  ,r/byu,r/byu,r/byu,True,True
+3337,Utah State University,www.usu.edu/, usu  ,r/usu,r/usu,r/usu,True,True
+3339,Salt Lake Community College,www.slcc.edu/, slcc  ,r/SLCC,r/SLCC,r/SLCC,True,True
+3342,Westminster College,www.westminstercollege.edu/, westminstercollege  ,r/WestminsterCollege,r/WestminsterCollege,r/WestminsterCollege,True,True
+3344,Castleton University,https://www.castleton.edu/,  castleton  ,r/CastletonUniversity,r/CastletonUniversity,r/CastletonUniversity,True,True
+3369,Christopher Newport University,cnu.edu/,cnu  ,r/CNU,r/CNU,r/CNU,True,True
+3377,Eastern Mennonite University,https://emu.edu/, emu  ,r/emu,r/emu,r/emu,True,True
+3383,Hampton University,www.hamptonu.edu/, hamptonu  ,r/HamptonUniversity,r/HamptonUniversity,r/HamptonUniversity,True,True
+3386,James Madison University,www.jmu.edu/, jmu  ,r/jmu,r/jmu,r/jmu,True,True
+3389,Longwood University,www.longwood.edu/, longwood  ,r/Longwood,r/Longwood,r/Longwood,True,True
+3395,Marymount University,https://www.marymount.edu/,  marymount  ,r/LMU,r/LMU,r/LMU,True,True
+3412,Randolph College,www.randolphcollege.edu/, randolphcollege  ,r/RandolphCollege,r/RandolphCollege,r/RandolphCollege,True,True
+3446,Bellevue College,https://bellevuecollege.edu/, bellevuecollege  ,r/BellevueCollege,r/BellevueCollege,r/BellevueCollege,True,True
+3455,Columbia Basin College,www.columbiabasin.edu/, columbiabasin  ,r/ColumbiaBasinCollege,r/ColumbiaBasinCollege,r/ColumbiaBasinCollege,True,True
+3459,Edmonds College,www.edmonds.edu/, edmonds  ,r/Edmonds,r/Edmonds,r/Edmonds,True,True
+3465,Gonzaga University,https://www.gonzaga.edu/,  gonzaga  ,r/Gonzaga,r/Gonzaga,r/Gonzaga,True,True
+3467,Green River College,www.greenriver.edu/, greenriver  ,r/GreenRiverCollege,r/GreenRiverCollege,r/GreenRiverCollege,True,True
+3488,Seattle Central College,www.seattlecentral.edu/, seattlecentral  ,r/SeattleCentral,r/SeattleCentral,r/SeattleCentral,True,True
+3490,Seattle University,www.seattleu.edu/, seattleu  ,r/seattleu,r/seattleu,r/seattleu,True,True
+3493,South Puget Sound Community College,www.spscc.edu/, spscc  ,r/spscc,r/spscc,r/spscc,True,True
+3495,Spokane Falls Community College,https://sfcc.spokane.edu/, sfcc.spokane  ,r/SpokaneFalls,r/SpokaneFalls,r/SpokaneFalls,True,True
+3499,Walla Walla University,www.wallawalla.edu/, wallawalla  ,r/wallawalla,r/wallawalla,r/wallawalla,True,True
+3503,Western Washington University,wwu.edu/,wwu  ,r/WWU,r/WWU,r/WWU,True,True
+3506,Whitworth University,www.whitworth.edu/, whitworth  ,r/whitworth,r/whitworth,r/whitworth,True,True
+3545,West Virginia Wesleyan College,www.wvwc.edu/, wvwc  ,r/wvwc,r/wvwc,r/wvwc,True,True
+3573,Marquette University,www.marquette.edu/, marquette  ,r/Marquette,r/Marquette,r/Marquette,True,True
+3576,Milwaukee Area Technical College,matc.edu/,matc  ,r/matc,r/matc,r/matc,True,True
+3578,Milwaukee School of Engineering,www.msoe.edu/, msoe  ,r/MSOE,r/MSOE,r/MSOE,True,True
+3581,Nashotah House,www.nashotah.edu/, nashotah  ,r/Anglicanism,r/Anglicanism,r/Anglicanism,True,True
+3586,Ripon College,www.ripon.edu/, ripon  ,r/Ripon,r/Ripon,r/Ripon,True,True
+3832,Pennsylvania College of Technology,https://www.pct.edu/,  pct  ,r/pct,r/pct,r/pct,True,True
+3839,Las Positas College,www.laspositascollege.edu/, laspositascollege  ,r/laspositascollege,r/laspositascollege,r/laspositascollege,True,True
+4231,Northwest Vista College,alamo.edu/nvc/,alamo  nvc ,r/NorthwestVista,r/NorthwestVista,r/NorthwestVista,True,True
+4246,Living Arts College,living-arts-college.edu/,living-arts-college  ,r/SolidVerbal,r/SolidVerbal,r/SolidVerbal,True,True
+4260,Embry-Riddle Aeronautical University-Worldwide,worldwide.erau.edu/,worldwide.erau  ,r/erau,r/erau,r/erau,True,True
+4323,Western Governors University,www.wgu.edu/, wgu  ,r/WGU,r/WGU,r/WGU,True,True
+4326,Florida Gulf Coast University,www.fgcu.edu/, fgcu  ,r/fgcu,r/fgcu,r/fgcu,True,True
+4366,University of Connecticut-Stamford,stamford.uconn.edu/,stamford.uconn  ,r/UCONN,r/UCONN,r/UCONN,True,True
+4432,Remington College-Baton Rouge Campus,www.remingtoncollege.edu/baton-rouge-career-college, remingtoncollege  baton-rouge-career-college,r/batonrouge,r/batonrouge,r/batonrouge,True,True
+4481,Franklin W Olin College of Engineering,www.olin.edu/, olin  ,r/olin,r/olin,r/olin,True,True
+4552,Northcentral University,www.ncu.edu/, ncu  ,r/NCU,r/NCU,r/NCU,True,True
+4575,Auguste Escoffier School of Culinary Arts-Austin,www.escoffier.edu/, escoffier  ,r/celebritychefs,r/celebritychefs,r/celebritychefs,True,True
+4576,Culinary Institute Inc,www.culinaryinstitute.edu/, culinaryinstitute  ,r/CulinaryInstitute,r/CulinaryInstitute,r/CulinaryInstitute,True,True
+4621,Divine Mercy University,www.divinemercy.edu/, divinemercy  ,r/DivineMercy,r/DivineMercy,r/DivineMercy,True,True
+4627,Ave Maria University,www.avemaria.edu/, avemaria  ,r/AVE_MARIA_MOD,r/AVE_MARIA_MOD,r/AVE_MARIA_MOD,True,True
+4737,Gnomon,https://www.gnomon.edu/,  gnomon  ,r/Gnomon,r/Gnomon,r/Gnomon,True,True
+4871,Ottawa University-Online,www.ottawa.edu/, ottawa  ,r/ottawa,r/ottawa,r/ottawa,True,True
+4876,Mayfield College,www.mayfieldcollege.edu/, mayfieldcollege  ,r/MayfieldCollege,r/MayfieldCollege,r/MayfieldCollege,True,True
+4884,Auguste Escoffier School of Culinary Arts-Boulder,www.escoffier.edu/, escoffier  ,r/celebritychefs,r/celebritychefs,r/celebritychefs,True,True
+4923,Pacific Northwest University of Health Sciences,https://www.pnwu.edu/,  pnwu  ,r/PNWU,r/PNWU,r/PNWU,True,True
+4979,University of Minnesota-Rochester,https://r.umn.edu/, r.umn  ,r/uofmn,r/uofmn,r/uofmn,True,True
+5028,Montana Academy of Salons,https://montanaacademy.edu/, montanaacademy  ,r/MontanaAcademy,r/MontanaAcademy,r/MontanaAcademy,True,True
+5104,Nova Academy of Cosmetology,www.nova-academy.com/, nova-academy  ,r/NovaTheElf,r/NovaTheElf,r/NovaTheElf,True,True
+5110,American Beauty Academy,www.americanbeauty.edu/, americanbeauty  ,r/AmericanBeauty,r/AmericanBeauty,r/AmericanBeauty,True,True
+5184,Meridian Institute of Surgical Assisting,www.meridian-institute.edu/, meridian-institute  ,r/thetacticalgames,r/thetacticalgames,r/thetacticalgames,True,True
+5232,Florida Academy,https://florida-academy.edu/, florida-academy  ,r/FSCJ,r/FSCJ,r/FSCJ,True,True
+5239,John Paul the Great Catholic University,https://jpcatholic.edu/, jpcatholic  ,r/JpCatholic,r/JpCatholic,r/JpCatholic,True,True
+5354,California College San Diego,www.cc-sd.edu/, cc-sd  ,r/sandiego,r/sandiego,r/sandiego,True,True
+5500,Arizona State University Digital Immersion,www.asu.edu/, asu  ,r/ASU,r/ASU,r/ASU,True,True
+5592,California College San Diego,www.cc-sd.edu/, cc-sd  ,r/sandiego,r/sandiego,r/sandiego,True,True
+5688,Emory University-Oxford College,www.oxford.emory.edu/, oxford.emory  ,r/OxfordCollege,r/OxfordCollege,r/OxfordCollege,True,True
+5744,Natural Images Beauty College,natural-images-bc.com/,natural-images-bc  ,r/NaturalBeauty,r/NaturalBeauty,r/NaturalBeauty,True,True
+5823,Westcliff University,www.westcliff.edu/, westcliff  ,r/westcliff,r/westcliff,r/westcliff,True,True
+5950,DSDT,https://dsdt.edu/, dsdt  ,r/hackintosh,r/hackintosh,r/hackintosh,True,True
+6012,MIXED Institute of Cosmetology & Barber,mixed.institute/,mixed.institute ,r/Theatre,r/Theatre,r/Theatre,True,True
+6121,Triangle Tech-Chambersburg,https://www.triangle-tech.edu/,  triangle-tech  ,r/triangle,r/triangle,r/triangle,True,True
+6132,Arizona State University-West,www.asu.edu/, asu  ,r/ASU,r/ASU,r/ASU,True,True
+6133,Arizona State University-Polytechnic,www.asu.edu/, asu  ,r/ASU,r/ASU,r/ASU,True,True
+6225,Ivy Tech Community College-Northcentral,www.ivytech.edu/, ivytech  ,r/ivytech,r/ivytech,r/ivytech,True,True
+6238,Ivy Tech Community College-Central Indiana,www.ivytech.edu/indianapolis/, ivytech  indianapolis ,r/Indiana,r/Indiana,r/Indiana,True,True
+6367,Pratt Manhattan-A Division of Pratt Institute,https://www.pratt.edu/,  pratt  ,r/Pratt,r/Pratt,r/Pratt,True,True
+6402,South College-Atlanta,https://www.south.edu/locations/atlanta/,  south  locations atlanta ,r/SouthWestAtlanta,r/SouthWestAtlanta,r/SouthWestAtlanta,True,True
+6457,Purdue University - Purdue Polytechnic South Bend,polytechnic.purdue.edu/south-bend,polytechnic.purdue  south-bend,r/Indiana,r/Indiana,r/Indiana,True,True
+6458,Purdue University - Purdue Polytechnic New Albany,polytechnic.purdue.edu/new-albany,polytechnic.purdue  new-albany,r/Indiana,r/Indiana,r/Indiana,True,True
+6459,Purdue University - Purdue Polytechnic Columbus,polytechnic.purdue.edu/columbus,polytechnic.purdue  columbus,r/Indiana,r/Indiana,r/Indiana,True,True
+6460,Purdue University - Purdue Polytechnic Kokomo,polytechnic.purdue.edu/kokomo,polytechnic.purdue  kokomo,r/Indiana,r/Indiana,r/Indiana,True,True
+6526,Strayer University-Delaware County Campus,www.strayer.edu/campus-locations/pennsylvania/delaware-county, strayer  campus-locations pennsylvania delaware-county,r/Georgia,r/Georgia,r/Georgia,True,True
+6544,Strayer University-Sand Lake Campus,www.strayer.edu/campus-locations, strayer  campus-locations,r/Strayer,r/Strayer,r/Strayer,True,True
+6585,Strayer University-Roswell Campus,www.strayer.edu/campus-locations, strayer  campus-locations,r/Strayer,r/Strayer,r/Strayer,True,True
+6661,Pennsylvania State University-Penn State Lehigh Valley,lehighvalley.psu.edu/,lehighvalley.psu  ,r/PennStateUniversity,r/PennStateUniversity,r/PennStateUniversity,True,True
+6665,Pennsylvania State University-Penn State Berks,berks.psu.edu/,berks.psu  ,r/PennStateUniversity,r/PennStateUniversity,r/PennStateUniversity,True,True
+6674,Pennsylvania State University-Penn State Scranton,scranton.psu.edu/,scranton.psu  ,r/PennStateUniversity,r/PennStateUniversity,r/PennStateUniversity,True,True
+6679,Pennsylvania State University-Penn State Harrisburg,harrisburg.psu.edu/,harrisburg.psu  ,r/PennStateUniversity,r/PennStateUniversity,r/PennStateUniversity,True,True
