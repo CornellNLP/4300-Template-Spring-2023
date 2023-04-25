@@ -1,91 +1,74 @@
-.full-body-container{
-    position: absolute;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    width:100%;
-    height:100%;
-    display: flex;
-    justify-content: start;
-    align-items: center;
-    flex-direction: column;
+body{
+    margin:0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 17px;
+    color:black;
+    line-height: 1.6;
 }
 
-#google-c{
-    color:#4285F4;
-}
-
-#google-s{
-    color:#DB4437;
-}
-
-#google-4{
-    color:	#F4B400;
-}
-
-#google-3{
-    color:	#4285F4;
-}
-
-#google-0-1{
-    color:	#0F9D58;
-}
-
-#google-0-2{
-    color:#DB4437;
-}
-
-.google-colors{
-    display: flex;
-    align-items: center;
-    font-size: 48px;
-    font-family: 'Open Sans', sans-serif;
-}
-
-.google-colors h1{
-    margin-bottom: 0;
-    margin-right: 3px;
-}
-
-.input-box{
-    border-radius: 50px;
-    border:1px solid black;
-    display: flex;
-    align-items: center;
-    margin-top: 10px;
-    padding:12px;
-    width: 600px;
-}
-
-.input-box img{
-    height: 20px;
-    width:20px;
-}
-
-.top-text{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.input-box input{
-    width: 100%;
-    margin-left: 10px;
-    font-size: 16px;
-    border: none;
-    outline: 0;
-}
-
-#answer-box{
-    width: 700px;
-    margin-top:50px; 
-}
-
-.episode-title{
-    font-family: 'Kanit', sans-serif;
-}
-
-.episode-desc{
-    font-family: 'Montserrat', sans-serif;
-}
+#showcase{
+    background-image:url('images/minimalistfood.jpeg');
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:0 20px;
+  }
+  
+  #showcase h1{
+    font-size:50px;
+    line-height:1.2;
+  }
+  
+  #showcase p{
+    font-size:20px;
+  }
+  
+  #showcase .button{
+    font-size:18px;
+    text-decoration:none;
+    color:#926239;
+    border:#926239 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+  }
+  
+  #showcase .button:hover{
+    background:#926239;
+    color:#fff;
+  }
+  
+  #section-a{
+    padding:20px;
+    background:#926239;
+    color:#fff;
+    text-align:center;
+  }
+  
+  #section-b{
+    padding:20px;
+    background:#f4f4f4;
+    text-align:center;
+  }
+  
+  #section-c{
+    display:flex;
+  }
+  
+  #section-c div{
+    padding:20px;
+  }
+  
+  #section-c .box-1, #section-c .box-3{
+    background:#926239;
+    color:#fff;
+  }
+  
+  #section-c .box-2{
+    background:#f9f9f9;
+  }

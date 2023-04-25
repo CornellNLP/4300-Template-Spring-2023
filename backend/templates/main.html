@@ -1,0 +1,226 @@
+<!doctype html>
+<!-- <title>{% block title %}{% endblock %} - Flaskr</title> -->
+<link rel="stylesheet" href="{{ url_for('static', filename='mainpg.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='virtual-select.min.css') }}"> 
+<script src="{{ url_for('static', filename='virtual-select.js') }}"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+
+<body>
+    <div class="full-body-container">
+        <div class="top-text">
+
+            <div class="website-title">
+                <h1 id = "title">CityFood</h1>
+            </div>
+
+            <!-- FILTER START -->
+            <div class="filter-container">
+                Cuisine:
+                <div>
+                    <label><input type="checkbox" name="cuisine" value="American">American</label>
+                    <label><input type="checkbox" name="cuisine" value="Chinese">Chinese</label>
+                    <label><input type="checkbox" name="cuisine" value="French">French</label>
+                    <label><input type="checkbox" name="cuisine" value="Italian">Italian</label>
+                    <label><input type="checkbox" name="cuisine" value="Japanese">Japanese</label>
+                    <label><input type="checkbox" name="cuisine" value="Korean">Korean</label>
+                    <label><input type="checkbox" name="cuisine" value="Mexican">Mexican</label>
+                </div>
+
+                <button id="apply-filters">Apply Filters</button>
+            </div>
+
+            <div id="restaurant-list"></div>
+
+            <script>
+            const restaurants = [
+                {name: 'Carbone', cuisine: 'Italian'},
+                {name: 'Babbo Ristorante e Enoteca', cuisine: 'Italian'},
+                {name: 'Osteria Mozza', cuisine: 'Italian'},
+                {name: 'Chipotle', cuisine: 'Mexican'},
+                {name: 'Casa Molina Del Norte', cuisine: 'Mexican'},
+                {name: 'Happy Wok', cuisine: 'Chinese'},
+                {name: 'Slate Bleu Restaurant', cuisine: 'French'},
+                {name: 'Maru Global', cuisine: 'Japanese'},
+                {name: 'Gangnam Street Food', cuisine: 'Korean'},
+                {name: 'Generations Grill', cuisine: 'American'}
+            ];
+
+            const applyFiltersButton = document.getElementById('apply-filters');
+            const restaurantList = document.getElementById('restaurant-list');
+    
+
+            applyFiltersButton.addEventListener('click', () => {
+                const cuisineCheckboxes = document.querySelectorAll('input[name="cuisine"]:checked');
+                const selectedCuisines = Array.from(cuisineCheckboxes).map(cb => cb.value);
+
+                const filteredRestaurants = restaurants.filter(r => selectedCuisines.includes(r.cuisine));
+
+                let html = '';
+                filteredRestaurants.forEach(r => {
+                    html += `<div>${r.name}</div>`;
+                });
+
+                restaurantList.innerHTML = html;
+            });
+            </script>
+            <!-- FILTER END -->
+
+            <!-- USER INPUT RESTAURANT START -->
+            <!-- USER INPUT RESTAURANT END -->
+
+            <p>BREAK</p>
+            <form>
+                <label for="fname">First Restaurant:</label><br>
+                <input type="text" id="first" name="first"><br>
+
+                <label for="lname">Second Restaurant:</label><br>
+                <input type="text" id="second" name="second"><br>
+
+                <label for="lname">Third Restaurant:</label><br>
+                <input type="text" id="third" name="third">
+                <p></p>
+                <input type="submit">
+            </form>
+
+            <p>BREAK - AUTOCOMPLETE VERSION</p>
+
+            First Restaurant:
+            <form autocomplete="off">
+                <input type="text" name="q" id="q1" onKeyUp="showResults(this.value, this, 'result1')" />
+                <div id="result1"></div>
+            </form>
+
+            Second Restaurant:
+            <form autocomplete="off">
+                <input type="text" name="q" id="q2" onKeyUp="showResults(this.value, this, 'result2')" />
+                <div id="result2"></div>
+            </form>
+
+            Third Restaurant:
+            <form autocomplete="off">
+                <input type="text" name="q" id="q3" onKeyUp="showResults(this.value, this, 'result3')" />
+                <div id="result3"></div>
+            </form>
+
+            <p></p>
+                <input type="submit">
+
+            <style>
+                ul {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+                    /* border: 1px solid black; */
+                }
+            
+                li {
+                    padding: 5px;
+                    cursor: pointer;
+                }
+            
+                li:hover {
+                    background-color: #f2f2f2;
+                }
+            </style>
+
+            <script>
+                var search_terms = ['apple', 'banana', 'chocolate', 'croissant', 'honey', 'ice cream'];
+
+                function autocompleteMatch(input) {
+                    if (input == '') {
+                        return [];
+                    }
+                    var reg = new RegExp(input)
+                    return search_terms.filter(function(term) {
+                        if (term.match(reg)) {
+                            return term;
+                        }
+                    });
+                }
+
+                function showResults(val, input, result_id) {
+                    var res = document.getElementById(result_id);
+                    res.innerHTML = '';
+                    var list = '';
+                    var terms = autocompleteMatch(val);
+                    for (var i = 0; i < terms.length; i++) {
+                        list += '<li>' + terms[i] + '</li>';
+                    }
+                    res.innerHTML = '<ul>' + list + '</ul>';
+
+                    // Add click event listener to options
+                    var options = res.getElementsByTagName('li');
+                    for (var j = 0; j < options.length; j++) {
+                        options[j].addEventListener('click', function() {
+                            input.value = this.textContent;
+                            res.innerHTML = '';
+                        });
+                    }
+                }
+            </script>
+
+            <form>
+                <label for="zip">Enter your Zip Code:</label>
+                <input type="text" id="zip" name="zip" pattern="[0-9]{5}" title="Five digit zip code" required>
+                <button type="submit">Submit</button>
+            </form>
+
+            <form>
+                <label for="city">Enter your City:</label>
+                <input type="text" id="city" name="city" pattern="[A-Za-z ]{2,50}" title="City name should be between 2 and 50 characters long and only contain letters and spaces" required>
+                <button type="submit">Submit</button>
+            </form>
+
+             
+        </div>
+
+
+        <!-- GOOGLE MAPS START -->
+        <div class = "wrap">
+            <form action = "" class = "form">
+                <input type="text" id = "latitude" placeholder = "latitude">
+                <input type="text" id = "longitude" placeholder = "longitude">
+            </form>
+
+            <div id="map"></div>
+
+        </div>
+
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <!-- GOOGLE MAPS END -->
+
+    </div>
+
+    <script>
+        let mapOptions = {
+            center:[42.444248, -76.482489],
+            zoom: 17
+        }
+
+        let map = new L.map('map' , mapOptions);
+
+        let layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+        map.addLayer(layer);
+
+
+        let marker = null;
+        map.on('click', (event)=> {
+
+            if(marker !== null){
+                map.removeLayer(marker);
+            }
+
+            marker = L.marker([event.latlng.lat , event.latlng.lng]).addTo(map);
+
+            document.getElementById('latitude').value = event.latlng.lat;
+            document.getElementById('longitude').value = event.latlng.lng;
+        })
+    </script>
+
+</body>
